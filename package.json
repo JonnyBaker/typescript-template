@@ -9,7 +9,6 @@
     "test": "jest",
     "typecheck": "tsc --noEmit"
   },
-  "author": "James Sawle",
   "license": "UNLICENSED",
   "devDependencies": {
     "@types/jest": "^27.0.2",
